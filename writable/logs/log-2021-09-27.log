@@ -1,0 +1,36 @@
+CRITICAL - 2021-09-27 03:25:57 --> Class 'app\Controllers\BaseController' not found
+#0 C:\xampp\htdocs\wp2\pustaka-booking_12200571\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\wp2\pustaka-booking_12200571\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wp2\pustaka-booking_12200571\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\wp2\pustaka-booking_12200571\vendor\codeigniter4\framework\system\CodeIgniter.php(767): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\wp2\pustaka-booking_12200571\vendor\codeigniter4\framework\system\CodeIgniter.php(386): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\wp2\pustaka-booking_12200571\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\wp2\pustaka-booking_12200571\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\wp2\pustaka-booking_12200571\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-09-27 03:27:54 --> Class 'app\Controllers\BaseController' not found
+#0 C:\xampp\htdocs\wp2\pustaka-booking_12200571\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\wp2\pustaka-booking_12200571\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wp2\pustaka-booking_12200571\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\wp2\pustaka-booking_12200571\vendor\codeigniter4\framework\system\CodeIgniter.php(767): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\wp2\pustaka-booking_12200571\vendor\codeigniter4\framework\system\CodeIgniter.php(386): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\wp2\pustaka-booking_12200571\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\wp2\pustaka-booking_12200571\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\wp2\pustaka-booking_12200571\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-09-27 03:27:55 --> Class 'app\Controllers\BaseController' not found
+#0 C:\xampp\htdocs\wp2\pustaka-booking_12200571\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\wp2\pustaka-booking_12200571\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wp2\pustaka-booking_12200571\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\wp2\pustaka-booking_12200571\vendor\codeigniter4\framework\system\CodeIgniter.php(767): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\wp2\pustaka-booking_12200571\vendor\codeigniter4\framework\system\CodeIgniter.php(386): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\wp2\pustaka-booking_12200571\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\wp2\pustaka-booking_12200571\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\wp2\pustaka-booking_12200571\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
